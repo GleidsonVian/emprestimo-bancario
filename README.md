@@ -8,7 +8,7 @@ Este é um programa simples escrito em Python para aprovar ou recusar um emprés
 
 2. **Clone o Repositório**: Clone este repositório em seu sistema local usando o seguinte comando no terminal:
 
-https://github.com/GleidsonVian/emprestimo-bancario/edit/main/README.md
+git clone https://github.com/GleidsonVian/emprestimo-bancario/edit/main/README.md
 
 
 3. **Execute o Programa**: Navegue até o diretório do programa clonado e execute o programa Python digitando o seguinte comando no terminal:
